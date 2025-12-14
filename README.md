@@ -18,4 +18,4 @@ AtliQ Hardware identified a gap in their ability to make quick, smart data-infor
  4. Actionable Insights
 
 ## Outcome
- Through this project, I demonstrated my ability to handle complex data queries and visualization and presentation design in a business context.
+ Through this project, I demonstrated my ability to handle complex data queries, visualization and presentation design in a business context.
